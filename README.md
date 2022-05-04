@@ -1,20 +1,39 @@
 <h1 align="center">Customer Register System</h1>
 
-<p align="center">🚀 This project creates a REST API to store customer's information in a data structure.</p>
-
-<h2 align="center"> Instructions of how to execute the code </h2>
-<p align="center">:pencil: yarn init -y  - to initialize the project<p> 
-<p align="center">:pencil: yarn add express - to add node.js dependencies<p>
-<p align="center">:pencil: node server.js  -  to run the server <p>
-  
-  
-  
-  
-<h1 align="center">Sistema de Cadastro de Clientes</h1>
-
 <p align="center">🚀 Este projeto cria uma API REST para armazenar as informações do cliente em uma estrutura de dados.</p>
 
-<h2 align="center"> Instruções de como executar o código </h2>
-<p align="center">:pencil: yarn init -y - para inicializar o projeto<p>
-<p align="center">:pencil: yarn add express - para adicionar dependências do node.js<p>
-<p align="center">:pencil: node server.js - para executar o servidor <p>
+
+### Instructions of how to execute the code
+
+Para execução do código será necessário as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/)
+
+### 🎲 Rodando o Back End (servidor)
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/ccaetano478/custormer-register-system>
+
+#Inicialize o projeto
+$yarn init -y 
+
+# Instale as dependências
+$ yarn add express
+
+# Execute a aplicação em modo de desenvolvimento
+$ node server.js
+
+# O servidor inciará na porta:3000
+```
+ 
+ 
+<h3>🛠 Tecnologias</h3>
+
+Para a construção do projeto foi utilizado a versão v14.15.4 do Node.js com recursos do Express na versão v4.18.1.
+A técnologia foi escolhida devido a facilidade de uso e criação do sistema. 
+
+Os testes da API REST foram realizados via Insomnia no host local e está configurado para uso na porta 3000:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [Insominia](https://insomnia.rest)

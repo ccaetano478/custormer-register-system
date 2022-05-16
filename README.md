@@ -3,7 +3,7 @@
 <p align="center">🚀 Este projeto cria uma API REST para armazenar as informações do cliente em uma estrutura de dados.</p>
 
 
-### Instructions of how to execute the code
+### Instruçoes para executar o código
 
 Para execução do código será necessário as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/)
